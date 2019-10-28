@@ -1,0 +1,38 @@
+html{
+	height: 100%;
+}
+
+body{
+	background-color: #16333c;
+	height: 100%;
+	color: white;
+}
+
+.yoonix-bouton{
+	border-style: solid;
+	border-radius: 100px;
+	background-color: transparent;
+	border-color: #f7d886;
+	color: white;
+	cursor: pointer;
+	padding: 10px 40px;
+	border-width: 2px;
+}
+
+.yoonix-bouton:hover{
+	color: #f7d886;
+}
+
+.yoonix-bouton-imp{
+	border-color: transparent;
+	background-color: #53bbb1;
+}
+
+.yoonix-bouton-imp:hover{
+	background-color: #818a9d50;
+	color: white;
+}
+
+.yoonix-link{
+	color: #53bbb1;
+}
